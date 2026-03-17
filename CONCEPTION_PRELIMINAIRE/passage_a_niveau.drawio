@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="MtBBKSsmSpT0lWPDpKd4">
+    <mxGraphModel dx="1310" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-3" edge="1" parent="1" source="qYvZn6_oFaG4_wMhg42p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qYvZn6_oFaG4_wMhg42p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Début" vertex="1">
+          <mxGeometry height="50" width="110" x="344" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-14" edge="1" parent="1" source="qYvZn6_oFaG4_wMhg42p-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qYvZn6_oFaG4_wMhg42p-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-18" edge="1" parent="1" source="qYvZn6_oFaG4_wMhg42p-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Tramway détecté ?" vertex="1">
+          <mxGeometry height="80" width="170" x="314" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Oui" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Non" vertex="1">
+          <mxGeometry height="30" width="60" x="465" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-37" edge="1" parent="1" source="qYvZn6_oFaG4_wMhg42p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="453" />
+              <mxPoint x="630" y="240" />
+            </Array>
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-20" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Tramway déte&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cté&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de l&#39;autre côté&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="180" x="309" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-34" edge="1" parent="1" source="qYvZn6_oFaG4_wMhg42p-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qYvZn6_oFaG4_wMhg42p-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Oui" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Non" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-32" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="355" x="224" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-10" parent="qYvZn6_oFaG4_wMhg42p-32" style="rounded=0;whiteSpace=wrap;html=1;" value="Descendre barrière" vertex="1">
+          <mxGeometry height="60" width="120" x="235" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-11" parent="qYvZn6_oFaG4_wMhg42p-32" style="rounded=0;whiteSpace=wrap;html=1;" value="Allumer feu rouge" vertex="1">
+          <mxGeometry height="60" width="120" x="115" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-13" parent="qYvZn6_oFaG4_wMhg42p-32" style="rounded=0;whiteSpace=wrap;html=1;" value="Eteindre feu vert" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-33" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="360" x="219" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-25" parent="qYvZn6_oFaG4_wMhg42p-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Eteindre feu rouge" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-26" parent="qYvZn6_oFaG4_wMhg42p-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Allumer feu vert" vertex="1">
+          <mxGeometry height="60" width="120" x="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-27" parent="qYvZn6_oFaG4_wMhg42p-33" style="rounded=0;whiteSpace=wrap;html=1;" value="Lever barrière" vertex="1">
+          <mxGeometry height="60" width="120" x="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-35" edge="1" parent="1" source="qYvZn6_oFaG4_wMhg42p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qYvZn6_oFaG4_wMhg42p-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvZn6_oFaG4_wMhg42p-38" edge="1" parent="1" source="qYvZn6_oFaG4_wMhg42p-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qYvZn6_oFaG4_wMhg42p-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="399" y="690" />
+              <mxPoint x="150" y="690" />
+              <mxPoint x="150" y="-20" />
+              <mxPoint x="399" y="-20" />
+            </Array>
+            <mxPoint x="410" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
